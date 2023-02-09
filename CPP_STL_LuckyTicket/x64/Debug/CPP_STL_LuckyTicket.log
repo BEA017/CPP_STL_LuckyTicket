@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\STEP\FR\CPP_STL_LuckyTicket\CPP_STL_LuckyTicket\Source.cpp(79,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\STEP\FR\CPP_STL_LuckyTicket\CPP_STL_LuckyTicket\Source.cpp(141,23): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+E:\STEP\FR\CPP_STL_LuckyTicket\CPP_STL_LuckyTicket\Source.cpp(141,23): message : consider using '%zd' in the format string
+  CPP_STL_LuckyTicket.vcxproj -> E:\STEP\FR\CPP_STL_LuckyTicket\x64\Debug\CPP_STL_LuckyTicket.exe
